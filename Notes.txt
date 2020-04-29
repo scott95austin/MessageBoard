@@ -1,0 +1,11 @@
+To Start Server (Terminal 1)
+PS C:\Users\draga\Desktop\MongoDB Message Board\client>
+npm run serve
+
+To Start Dev Server (Terminal 2)
+PS C:\Users\draga\Desktop\MongoDB Message Board\server>
+npm run dev
+
+To Start Mongo (Terminal 3)
+PS C:\Users\draga\Desktop\MongoDB Message Board\client>
+mongo

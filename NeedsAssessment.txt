@@ -1,0 +1,11 @@
+NoSQL Lab Needs Assessment
+
+System Requirements:
+[x] 1.	Create Database Management System
+    [x] a.  Allow Storage/Manipulation of user entered
+        academic histories and opinions
+2.  User Drive Filtering
+3.  [x] Commenting
+4.  [x?] Implement Social Media Settings
+[x] 5.  Use a NoSQL Database
+    [x] a.  MongoDB
